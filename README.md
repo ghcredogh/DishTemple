@@ -1,6 +1,6 @@
-# 🤯 DISHTEMPLE: Say Goodbye to Mealtime Mayhem! 🍽️✨
+# 🤯 Dish Temple: Say Goodbye to Mealtime Mayhem! 🍽️✨
 
-**Still struggling with the eternal question: "What should I eat?"** 😩 Stop the stress! **DishTemple** is here to cut the complexity and turn every meal into a *fun* celebration!
+**Still struggling with the eternal question: "What should I eat?"** 😩 Stop the stress! **Dish Temple** is here to cut the complexity and turn every meal into a *fun* celebration!
 
 ---
 
@@ -40,4 +40,4 @@ Just hit our **One-Click Randomizer!** We'll instantly select a delicious option
 
 Stop the endless scrolling and start the effortless eating!
 
-Join the party at <span style="color:#007bff; font-weight:bold;">**DishTemple**</span> today and make food decisions <span style="color:#FFC107;">**EASY**</span> and <span style="color:#FFC107;">**JOYFUL!**</span> 🥳
+Join the party at <span style="color:#007bff; font-weight:bold;">**Dish Temple**</span> today and make food decisions <span style="color:#FFC107;">**EASY**</span> and <span style="color:#FFC107;">**JOYFUL!**</span> 🥳
